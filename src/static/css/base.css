@@ -1,0 +1,28 @@
+h1 {
+	color: #777777;
+	font-family: Georgia;
+	font-size: 32pt;
+}
+
+p {
+	font-family: Georgia;
+	font-size: 14pt;
+	line-height: 1.5;
+}
+
+p.byline {
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+.wmd-panel {
+margin-right: 0px !important;
+margin-left: 0px !important;
+}
+
+.breadcrumb {
+	
+	margin-bottom: 5px;
+	margin-top: 5px;
+
+}

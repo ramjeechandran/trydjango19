@@ -1,0 +1,20 @@
+h1 {
+	color: #777777;
+	font-family: Arial;
+	font-size: 32pt;
+}
+
+p {
+	font-family: Times Roman;
+	font-size: 12pt;
+}
+
+p.byline {
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+.wmd-panel {
+margin-right: 0px !important;
+margin-left: 0px !important;
+}

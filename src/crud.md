@@ -1,0 +1,6 @@
+CREATE
+RETRIEVE
+UPDATE
+DELETE
+
+List / Search
