@@ -4,164 +4,436 @@
 		"selected_items":
 		[
 			[
-				"fun",
-				"function"
+				"post",
+				"post_detail"
 			],
 			[
-				"content",
-				"content-markdown"
+				"font",
+				"font-family\tproperty"
 			],
 			[
-				"marke",
-				"markedContent"
+				"en",
+				"environ"
 			],
 			[
-				"Con",
-				"console"
+				"image",
+				"image_path"
 			],
 			[
-				"con",
-				"content"
+				"err",
+				"errMsg\tlet"
 			],
 			[
-				"bott",
-				"margin-bottom\tproperty"
+				"in",
+				"instanceof\tkeyword"
 			],
 			[
-				"head",
-				"head_title"
+				"Vid",
+				"VideoManager"
 			],
 			[
-				"qu",
-				"queryset_list"
+				"Vide",
+				"VideoQuerySet"
 			],
 			[
 				"q",
 				"query"
 			],
 			[
-				"get",
-				"get"
+				"quer",
+				"query"
 			],
 			[
-				"que",
-				"queryset_list"
+				"u",
+				"unique_slug_generator"
 			],
 			[
-				"is",
-				"is_superuser"
-			],
-			[
-				"is_",
-				"is_staff"
-			],
-			[
-				"Post",
-				"PostManager"
-			],
-			[
-				"Pos",
-				"PostManager"
-			],
-			[
-				"aut",
-				"auto_now_add"
-			],
-			[
-				"col",
-				"col-sm-offset-3"
-			],
-			[
-				"font",
-				"font-size\tproperty"
-			],
-			[
-				"H",
-				"Http404"
-			],
-			[
-				"re",
-				"request"
-			],
-			[
-				"share",
-				"share_string"
-			],
-			[
-				"fon",
-				"font-style\tproperty"
-			],
-			[
-				"fo",
-				"font\tproperty"
-			],
-			[
-				"pre",
-				"pre_save_post_receiver"
+				"col-",
+				"col-sm-12"
 			],
 			[
 				"h",
-				"height_field"
+				"homeImageList\tproperty"
 			],
 			[
-				"pag",
-				"page_request_var"
+				"se",
+				"searchQuery\tproperty"
 			],
 			[
-				"pa",
-				"page_request_var"
+				"r",
+				"routeSub\tproperty"
+			],
+			[
+				"Av",
+				"ActivatedRoute\talias"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"by",
+				"bypassSecurityTrustResourceUrl\tmethod"
+			],
+			[
+				"Pip",
+				"PipeTransform\talias"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"cons",
+				"console\tvar"
+			],
+			[
+				"rou",
+				"RouterModule\talias"
+			],
+			[
+				"Rou",
+				"RouterModule\talias"
+			],
+			[
+				"fu",
+				"function\tkeyword"
+			],
+			[
+				"bas",
+				"basil3\tlet"
+			],
+			[
+				"con",
+				"constructor\tkeyword"
+			],
+			[
+				"login",
+				"loginUrl"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"data",
+				"dataId"
+			],
+			[
+				"gen",
+				"generateEditForm"
+			],
+			[
+				"cfe-",
+				"cfe-media-edit"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"aut",
+				"author"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"object",
+				"objectId"
+			],
+			[
+				"obj",
+				"objectId"
+			],
+			[
+				"co",
+				"contentTxt"
+			],
+			[
+				"content",
+				"contentHolder"
+			],
+			[
+				"html",
+				"htmlStart_"
+			],
+			[
+				"per",
+				"permission_classes"
 			],
 			[
 				"a",
-				"abc"
+				"authentication"
 			],
 			[
-				"url",
-				"urlpatterns"
+				"is",
+				"is_authenticated"
 			],
 			[
-				"post",
-				"post_list"
+				"re",
+				"responseJSON"
 			],
 			[
-				"d",
-				"django"
+				"res",
+				"responseData"
+			],
+			[
+				"fo",
+				"formResponse"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"like",
+				"likeUrl"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"cu",
+				"customersDjango"
+			],
+			[
+				"Lis",
+				"ListView"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"save",
+				"save_path"
+			],
+			[
+				"email",
+				"email_message"
+			],
+			[
+				"inb",
+				"inbox_item_list"
+			],
+			[
+				"ea",
+				"email_message"
+			],
+			[
+				"ema",
+				"email_message"
+			],
+			[
+				"acc",
+				"access_secret"
+			],
+			[
+				"blog",
+				"blog-list"
+			],
+			[
+				"BlogList",
+				"blogListController"
+			],
+			[
+				"img",
+				"img_r"
+			],
+			[
+				"sel",
+				"sel_soup"
+			],
+			[
+				"web",
+				"webdriver"
+			],
+			[
+				"my",
+				"my_num_list"
+			],
+			[
+				"nu",
+				"num_of_items"
+			],
+			[
+				"my_",
+				"my_num_list"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"Post",
+				"PostSerializer"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"read",
+				"read_time_min"
+			],
+			[
+				"rea",
+				"read_time_minutes"
+			],
+			[
+				"count",
+				"count_words"
+			],
+			[
+				"cont",
+				"content_type"
+			],
+			[
+				"Co",
+				"CommentForm"
+			],
+			[
+				"Commen",
+				"CommentForm"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"Comm",
+				"CommentManager"
+			],
+			[
+				"parent",
+				"parent_qs"
+			],
+			[
+				"parent_",
+				"parent_id"
 			],
 			[
 				"Ht",
 				"HttpResponseRedirect"
 			],
 			[
-				"for",
-				"form"
+				"obje",
+				"objects"
 			],
 			[
-				"post_",
-				"post_detail"
+				"pare",
+				"parent_id"
 			],
 			[
-				"ti",
-				"title"
+				"comm",
+				"CommentManager"
 			],
 			[
-				"__",
-				"__unicode__"
+				"Com",
+				"Comment"
 			],
 			[
-				"POst",
-				"PostModelAdmin"
+				"cle",
+				"clean_parent_id"
 			],
 			[
-				"G",
-				"GET"
+				"COmm",
+				"CommentManager"
 			],
 			[
-				"m",
-				"my_form"
+				"conten",
+				"content_type"
 			],
 			[
-				"P",
-				"POST"
+				"mar",
+				"margin-left"
+			],
+			[
+				"conte",
+				"contentItem"
+			],
+			[
+				"mark",
+				"markedContent"
+			],
+			[
+				"titl",
+				"titleItem"
+			],
+			[
+				"tit",
+				"titleValue"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"get_o",
+				"get_object"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"get_obj",
+				"get_object_or_404"
+			],
+			[
+				"sale",
+				"sale_price"
+			],
+			[
+				"ratin",
+				"rating_obj"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"product",
+				"productrating_set"
+			],
+			[
+				"rai",
+				"ratings"
+			],
+			[
+				"rat",
+				"ratings"
+			],
+			[
+				"pro",
+				"product_obj"
+			],
+			[
+				"ra",
+				"rating_obj"
 			],
 			[
 				"ob",
@@ -169,31 +441,79 @@
 			],
 			[
 				"Pr",
-				"ProductForm"
+				"ProductRating"
 			],
 			[
-				"in",
-				"input\tTag"
+				"Mu",
+				"MultipleObjectsReturned"
 			],
 			[
-				"de",
-				"descriptiion"
+				"Pro",
+				"ProductRating"
 			],
 			[
-				"pro",
-				"product_detail_view"
+				"inpu",
+				"inputValue"
 			],
 			[
-				"l",
-				"li\tTag"
+				"tra",
+				"transactions_today"
 			],
 			[
-				"u",
-				"ul\tTag"
+				"today",
+				"today_max"
 			],
 			[
-				"about",
-				"about_view"
+				"date",
+				"datetime"
+			],
+			[
+				"get_",
+				"get_transactions"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"Sell",
+				"SellerAccount"
+			],
+			[
+				"dow",
+				"download_link"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"http",
+				"Http404"
+			],
+			[
+				"produ",
+				"product_obj"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ran",
+				"random_products"
+			],
+			[
+				"po",
+				"products"
+			],
+			[
+				"to",
+				"top_tags_idless"
 			]
 		]
 	},
@@ -203,133 +523,7 @@
 			"file": "src/trydjango19/settings.py",
 			"settings":
 			{
-				"buffer_size": 3517,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/static/css/base.css",
-			"settings":
-			{
-				"buffer_size": 168,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/models.py",
-			"settings":
-			{
-				"buffer_size": 2057,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/templatetags/urlify.py",
-			"settings":
-			{
-				"buffer_size": 157,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/admin.py",
-			"settings":
-			{
-				"buffer_size": 394,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/trydjango19/urls.py",
-			"settings":
-			{
-				"buffer_size": 1156,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/urls.py",
-			"settings":
-			{
-				"buffer_size": 705,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/migrations/__init__.py",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/forms.py",
-			"settings":
-			{
-				"buffer_size": 344,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/views.py",
-			"settings":
-			{
-				"buffer_size": 3377,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/messages_display.html",
-			"settings":
-			{
-				"buffer_size": 301,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/base.html",
-			"settings":
-			{
-				"buffer_size": 2361,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/post_form.html",
-			"settings":
-			{
-				"buffer_size": 373,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/post_detail.html",
-			"settings":
-			{
-				"buffer_size": 2125,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/post_list.html",
-			"settings":
-			{
-				"buffer_size": 1713,
-				"encoding": "UTF-8",
+				"buffer_size": 3622,
 				"line_ending": "Unix"
 			}
 		}
@@ -341,16 +535,56 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 87.0,
+		"last_filter": "mark",
 		"selected_items":
 		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 485.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 125.0,
 		"history":
 		[
 		]
@@ -367,41 +601,141 @@
 	"expanded_folders":
 	[
 		"/Users/ramjeechandran/Documents/Dev/trydjango19",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/media_cdn",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/media_cdn/17",
+		"/Users/ramjeechandran/Documents/Dev/trydjango19/include",
 		"/Users/ramjeechandran/Documents/Dev/trydjango19/src",
 		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/posts",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/posts/__pycache__",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/posts/templatetags",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/static_cdn",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/static_cdn/admin",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/static_cdn/admin/css"
+		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/trydjango19"
 	],
 	"file_history":
 	[
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/posts/templatetags/__init__.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/posts/migrations/0001_initial.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/static/base.css",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/templates/index.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/crud.md",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/posts/forms.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango19/src/templates/post_detail",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/trydjango.sublime-project",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/products/models.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/products/views.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/products/templates/products/product_create.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/templates/contact.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/templates/about.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/trydjango/settings.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/products/admin.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/trydjango/urls.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/templates/home.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/templates/navbar.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/templates/BASE.HTML",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/pages/views.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/products/templates/products/product_detail.html",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/products/forms.py",
-		"/Users/ramjeechandran/Documents/Dev/trydjango/src/templates/product/detail.html"
+		"/Users/ramjeechandran/Documents/Dev/vx/requirements.txt",
+		"/Users/ramjeechandran/Documents/Dev/vx/vex/settings.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/models.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/vex/urls.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/urls.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/old_base.html",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/admin.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/.gitignore",
+		"/Users/ramjeechandran/Documents/Dev/vx/cblog/urls.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/cblog/views.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/views.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/blog/post_edit.html",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/blog/post_detail.html",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/blog/post_list_xxx.html",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/blog/forms.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/forms.py",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/blog/base.html",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/templates/blog/post_list.html",
+		"/Users/ramjeechandran/Documents/Dev/vx/blog/static/css/blog.css",
+		"/Users/ramjeechandran/Documents/Dev/vex1/django-blog-it/django_blog_it/urls.py",
+		"/Users/ramjeechandran/Documents/Dev/vex1/django-blog-it/django_blog_it/settings.py",
+		"/Users/ramjeechandran/Documents/Dev/vex1/src/vex1/vex1/settings.py",
+		"/Users/ramjeechandran/Documents/Dev/Try-Django-1.11/src/muypicky/urls.py",
+		"/Users/jmitch/Dropbox/cfe/v2/src/accounts/signals.py",
+		"/Users/jmitch/Dropbox/cfe/v2/src/analytics/models.py",
+		"/Users/jmitch/Dropbox/cfe/v2/src/accounts/views.py",
+		"/Users/cfe/Dev/geo2/.gitignore",
+		"/Users/cfe/Dev/geo2/src",
+		"/Users/cfe/Dev/djangular/backend/src/.env",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/settings/base.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/aws/utils.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/aws/conf.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/wsgi.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/__init__.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/settings/local.py",
+		"/Users/cfe/Dev/djangular/client/src/app/home/home.component.ts",
+		"/Users/cfe/Dev/djangular/backend/src/videos/models.py",
+		"/Users/cfe/Dev/djangular/backend/src/videos/api/serializers.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/settings/production.py",
+		"/Users/cfe/Dev/djangular/backend/src/videos/migrations/0006_auto_20170426_2258.py",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/aws/__init__.py",
+		"/Users/cfe/Downloads/credentials (1).csv",
+		"/Users/cfe/Dev/djangular/.gitignore",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/settings/__init__.py",
+		"/Users/cfe/Dev/djangular/backend/src/runtime.txt",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/old_settings.py",
+		"/Users/cfe/Dev/djangular/backend/src/staticheroku/mediaheroku/images/blank.txt",
+		"/Users/cfe/Dev/djangular/backend/src/staticheroku/mediaheroku/blank.txt",
+		"/Users/cfe/Dev/djangular/backend/src/requirements.txt",
+		"/Users/cfe/Dev/djangular/backend/src/mediaheroku/blank.txt",
+		"/Users/cfe/Dev/djangular/backend/src/mediaheroku/blank",
+		"/Users/cfe/Dev/djangular/backend/src/Procfile",
+		"/Users/cfe/Dev/djangular/backend/src/.gitignore",
+		"/Users/cfe/Dev/djangular/backend/src/videos/utils.py",
+		"/Users/cfe/Dev/djangular/backend/src/templates/500.html",
+		"/Users/cfe/Dev/djangular/backend/src/templates/404.html",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/urls.py",
+		"/Users/cfe/Dev/djangular/backend/src/videos/api/urls.py",
+		"/Users/cfe/Dev/djangular/client/src/app/video-detail/video-detail.component.html",
+		"/Users/cfe/Dev/djangular/client/src/app/search/search.component.ts",
+		"/Users/cfe/Dev/djangular/client/src/app/not-found/not-found.component.html",
+		"/Users/cfe/Dev/djangular/client/src/app/app.component.ts",
+		"/Users/cfe/Dev/djangular/client/src/assets/json/videos.json",
+		"/Users/cfe/Dev/djangular/backend/src/videos/api/views.py",
+		"/Users/cfe/Dev/djangular/client/src/app/video-detail/video-detail.component.ts",
+		"/Users/cfe/Dev/djangular/client/src/app/app.routing.ts",
+		"/Users/cfe/Dev/djangular/client/src/app/app.module.ts",
+		"/Users/cfe/Dev/djangular/client/src/app/videos/videos.service.ts",
+		"/Users/cfe/Dev/djangular/backend/src/videos/api/__init__.py",
+		"/Users/cfe/Dev/djangular/backend/src/videos/admin.py",
+		"/Users/cfe/Dev/djangular/backend/src/static/ang/index.html",
+		"/Users/cfe/Dev/djangular/backend/src/tryangular/settings.py",
+		"/Users/cfe/Dev/djangular/backend/src/templates/ang_home.html",
+		"/Users/cfe/Dev/djangular/client/deploy.sh",
+		"/Users/cfe/Dev/djangular/client/src/app/app.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/README.md",
+		"/Users/cfe/Dev/ngSrvup/client/LICENSE",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/search/search.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/app.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/search-detail/search-detail.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/app.component.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/video-detail/video-detail.component.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/assets/json/videos.json",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/videos/video.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/video-list/video-list.component.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/app.module.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/search/search.component.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/app.routing.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/search-detail/search-detail.component.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/home/home.component.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/videos/videos.service.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/video-list/video-list.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/videos/videos.service.spec.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/styles.css",
+		"/Users/cfe/Dev/ngSrvup/client/src/index.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/video-detail/video-detail.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/home/home.component.html",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/safe.pipe.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/utility/safe.pipe.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/utilities/safe.pipe.ts",
+		"/Users/cfe/Dev/ngSrvup/client/src/app/video-list/videos.json",
+		"/Users/cfe/Dev/tsSetup/tsconfig.json",
+		"/Users/cfe/Dev/tsSetup/package.json",
+		"/Users/cfe/Dev/tsSetup/src/coffee/getcoffee.ts",
+		"/Users/cfe/Dev/tsSetup/index.html",
+		"/Users/cfe/Dev/tsSetup/dist/main.js",
+		"/Users/cfe/Dev/tsSetup/second.ts",
+		"/Users/cfe/Dev/tsSetup/dist/bundle.js",
+		"/Users/cfe/Dev/tsSetup/webpack.config.js",
+		"/Users/cfe/Dev/tsSetup/main.ts",
+		"/Users/cfe/Dev/tsSetup/src/main.ts",
+		"/Users/cfe/Dev/tsSetup/.gitignore",
+		"/Users/cfe/Dev/tsSetup/dist/second.ts",
+		"/Users/cfe/Dev/tsSetup/basil.ts",
+		"/Users/cfe/Dev/tsSetup/dist/basil.ts",
+		"/Users/cfe/Dev/srvup-comments/staticfiles_cdn/static_cdn/comments/js/cfe.comments.js",
+		"/Users/cfe/Dev/srvup-comments/src/comments/views.py",
+		"/Users/cfe/Dev/srvup-comments/src/comments/api/urls.py",
+		"/Users/cfe/Dev/srvup-comments/src/comments/models.py",
+		"/Users/cfe/Dev/srvup-comments/src/srvupComments/urls.py",
+		"/Users/cfe/Dev/srvup-comments/src/comments/static/comments/js/cfe.comments.js",
+		"/Users/cfe/Dev/srvup-comments/src/srvupComments/settings.py",
+		"/Users/cfe/Dev/srvup-comments/src/templates/home.html",
+		"/Users/cfe/Dev/srvup-comments/src/comments/api/serializers.py",
+		"/Users/cfe/Dev/srvup-comments/src/comments/static/comments/css/cfe.comments.css",
+		"/Users/cfe/Dev/srvup-comments/src/comments/static/css/cfe.comments.css",
+		"/Users/cfe/Dev/srvup-comments/src/comments/admin.py",
+		"/Users/cfe/Dev/srvup-comments/src/comments/api/__init__.py"
 	],
 	"find":
 	{
@@ -409,7 +743,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 101.0,
+		"height": 132.0,
 		"where_history":
 		[
 		]
@@ -419,46 +753,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"abc",
-			"id",
-			"br",
-			"index.html"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
-			"base.html"
 		],
 		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "src/trydjango19/settings.py",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 3517,
+						"buffer_size": 3622,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1088,
-								1088
+								3327,
+								3327
 							]
 						],
 						"settings":
@@ -468,402 +797,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 418.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/static/css/base.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 168,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								109,
-								109
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/posts/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2057,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1475,
-								1475
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 662.0,
+						"translation.y": 1700.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/posts/templatetags/urlify.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/posts/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 394,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								394,
-								394
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/trydjango19/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1109,
-								1109
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 157.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/posts/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 705,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								325,
-								325
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "src/posts/migrations/__init__.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "src/posts/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 344,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								177,
-								177
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "src/posts/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1973,
-								1973
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 198.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "src/templates/messages_display.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								99,
-								99
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "src/templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2361,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2318,
-								2318
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 597.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "src/templates/post_form.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 373,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								67
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "src/templates/post_detail.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2125,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								927,
-								927
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 438.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "src/templates/post_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1713,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								892,
-								892
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 282.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -875,7 +812,7 @@
 	},
 	"input":
 	{
-		"height": 36.0
+		"height": 48.0
 	},
 	"layout":
 	{
@@ -900,9 +837,13 @@
 		]
 	},
 	"menu_visible": true,
-	"output.find_results":
+	"output.doc":
 	{
 		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 508.0
 	},
 	"pinned_build_system": "",
 	"project": "trydjango19.sublime-project",
@@ -917,6 +858,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"email",
+				"templates/team/email_instructions.html"
+			]
 		],
 		"width": 0.0
 	},
@@ -942,11 +887,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 238.0,
+	"side_bar_width": 383.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
